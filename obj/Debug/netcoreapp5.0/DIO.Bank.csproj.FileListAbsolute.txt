@@ -1,0 +1,16 @@
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/DIO.Bank
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/DIO.Bank.deps.json
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/DIO.Bank.runtimeconfig.json
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/DIO.Bank.runtimeconfig.dev.json
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/DIO.Bank.dll
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/ref/DIO.Bank.dll
+/home/rafael/Downloads/bank-transfer-dotnet-console/bin/Debug/netcoreapp5.0/DIO.Bank.pdb
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.csprojAssemblyReference.cache
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.AssemblyInfoInputs.cache
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.AssemblyInfo.cs
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.dll
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/ref/DIO.Bank.dll
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.pdb
+/home/rafael/Downloads/bank-transfer-dotnet-console/obj/Debug/netcoreapp5.0/DIO.Bank.genruntimeconfig.cache

@@ -4,8 +4,8 @@ Sistema de transferência bancária criado a partir de um projeto Console em .NE
 
 ## Objetivo do projeto 🚀
 
-- Entender a impotrância da utilização de Enums em um projeto.
-- Realizar o armazenamento de dados de foma temporária utilizando Listas.
+- Entender a impotância da utilização de Enums em um projeto.
+- Realizar o armazenamento de dados de forma temporária utilizando Listas.
 - Colocar em prática os conceitos de orientação a objetos e organização de código.
 
 ## Como executar? 🧑‍🔧
